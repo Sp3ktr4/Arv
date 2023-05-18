@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FbuxSWb9iRRHm03I2gTxXpDU85v7wyq/Ch32gL+yKnb+64NwWDDaZVcd9YU6enamjuyvep/Ol9cRIyPunycq7g==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\bergman.william\\Documents\\ProgrammeringVSC\\Arv\\Arv\\Arv.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bergman.william\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
